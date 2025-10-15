@@ -1,4 +1,4 @@
-package com.jalila.produits;
+package com.jalila.musiques;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
