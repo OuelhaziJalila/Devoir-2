@@ -8,6 +8,8 @@ class Oauth2GithubApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		
 	}
 
 }
